@@ -1,0 +1,10 @@
+Novo teste, é para que esse texto fique para baixo do que ja exixte.Novo teste, o arquivo de cima não deve ser apagado.
+
+novo teste tem que pular a linha agora
+
+oi
+
+mais um teste na linha de baixo 
+Apenas arrumando aqui.
+
+ tudo bem
